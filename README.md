@@ -1,4 +1,4 @@
-# DSCurriculum
+# Data Science Curriculum
 Curriculum used for our Data Science programs at LanLearning. Curriculum features Python and Pandas fundamentals.
 
 Curriculum found in this repository features topics such as basic Python fundamentals and Pandas data manipulation. Eventually, we plan to add Machine Learning models, Natural Language Processing, Data Visualiations to this repository once they are complete.
