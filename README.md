@@ -11,6 +11,7 @@ Please refer to the **download instructions .pdf file** included to download the
 Curriculum was developed by:
 * [Milan Butani](https://www.linkedin.com/in/milanbutani/) 
 * [Neera Butani](https://www.linkedin.com/in/neera-butani-9019891b1/)
+* [Dev Chodavadiya](https://www.linkedin.com/in/dev-chodavadiya-79bb8b1aa/)
 * [Francis Gonzales](https://www.linkedin.com/in/francis--gonzales/)
 * [Edrees Gul](https://www.linkedin.com/in/edreesgul/)
 * [Madeleine Larson](https://www.linkedin.com/in/madeleine-larson/)
