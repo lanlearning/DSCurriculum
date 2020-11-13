@@ -3,7 +3,7 @@ Curriculum used for our Data Science programs at LanLearning. Curriculum feature
 
 Curriculum found in this repository features topics such as basic Python fundamentals and Pandas data manipulation. Eventually, we plan to add Machine Learning models, Natural Language Processing, Data Visualiations to this repository once they are complete.
 
-You will fine **homework**, **homework answers**, and **lecture files** in the repository. Lecture files will serve as the notebooks you will learn from, and homework files will be where you practice the material. Check your work on homework files with the answers provided.
+You will find **homework**, **homework answers**, and **lecture files** in the repository. Lecture files will serve as the notebooks you will learn from, and homework files will be where you practice the material. Check your work on homework files with the answers provided.
 
 Please refer to the **download instructions .pdf file** included to download the necessary software to use for the curriculum.
 
